@@ -1,0 +1,377 @@
+Date,September 2024
+Institution,NEDBANK LTD
+Form Type,BA900-BA900 Forms
+Values are in R'000 (thousands)
+
+Table 1
+Description,Item Number,Chequej,Savings,Up to 1 day,More than 1 day to 1 month,More than 1 month to 6 months,More than 6 months,TOTAL,NCDs/PNs i  (included in col. 7)
+"DEPOSITS (total of items 2 and 32)",1,178890751,15471367,325156956,63489603,191914806,306334734,1081258217,163208166
+"DEPOSITS DENOMINATED IN RAND (total of items 3, 6, 12, 13 and 29)",2,178890751,15471367,303629088,63078553,189832940,303043210,1053945909,163208166
+"SA banksb (total of items 4 and 5)",3,883297,0,2043192,77460,1523187,1810624,6337760,2165823
+"NCDs/PNsi ",4,,,0,77045,310261,1778516,2165822,2165823
+"Other deposits",5,883297,0,2043192,415,1212926,32108,4171938,
+"Central and provincial government sector depositsc (total of items 7, 10 and 11)",6,25237990,1760,7050825,4392656,11534136,9876328,58093695,5814495
+"Central government of the Republic (total of items 8 and 9)",7,23682185,172,6495894,2738290,10801722,9315115,53033378,5310948
+"Tax and loan account",8,20398682,0,0,0,0,0,20398682,0
+"Other",9,3283503,172,6495894,2738290,10801722,9315115,32634696,5310948
+"Provincial governments",10,1555140,1588,554931,1654366,732414,561213,5059652,503547
+"Social security funds",11,665,0,0,0,0,0,665,0
+"Other monetary institutionsh",12,602738,0,11074767,5091232,9292252,2577817,28638806,1983502
+"Other domestic parties (total of items 14 to 20, 25, 26, 27 and 28)",13,151226291,15244707,279267586,51931878,164643077,281658961,943972500,149765104
+"Local government ",14,2236005,2123,4423803,2962936,3425352,3168438,16218657,1041090
+"Public financial corporate sectord (such as IDC, DBSA)",15,636,0,138368,1711387,1191875,1997972,5040238,1937321
+"Public Investment Corporation (PIC)",16,409,0,0,840324,6581419,4376259,11798411,0
+"Public nonfinancial corporate sector (such as Transnet, Eskom and Telkom)",17,1048323,0,6461319,8351893,1078514,5044439,21984488,1752040
+"Insurersf",18,15942583,34,7816325,2305247,8133128,6634390,40831707,303281
+"Pension funds",19,4876459,1409,2686848,1020037,1554649,2476976,12616378,0
+"Private financial corporate sectore (total of items 21 to 24)",20,20757016,3258,36531275,22067973,78832553,176024555,334216630,120581355
+"Moneymarket unit trusts",21,0,0,2333379,243193,1116335,14411,3707318,0
+"Other unit trusts",22,2623,0,9843572,0,1169247,447241,11462683,250331
+"Fund managers",23,14503166,3,3627833,3590158,60386173,158479320,240586653,116246360
+"Otherg",24,6251227,3255,20726491,18234622,16160798,17083583,78459976,4084664
+"Private nonfinancial corporate sector ",25,57287869,137099,79483703,5704857,14565273,30912654,188091455,20458201
+"Unincorporated business enterprises ",26,1722415,45372,1761953,70596,246901,56903,3904140,0
+"Households ",27,34140646,9114423,98845179,4213862,40868096,39670284,226852490,187353
+"Nonprofit organisations serving households and other",28,13213930,5940989,41118813,2682766,8165317,11296091,82417906,3504463
+Table 2
+Description,Item Number,Chequej,Savings,Up to 1 day,More than 1 day to 1 month,More than 1 month to 6 months,More than 6 months,TOTAL,NCDs/PNse  (included in col. 7)
+"Foreign sector (total of items 30 and 31) ",29,940435,224900,4192718,1585327,2840288,7119480,16903148,3479242
+"    Banks  including foreign group funding ",30,22264,1460,1582525,1520313,1930209,6136117,11192888,3419568
+"    Other nonresidents",31,918171,223440,2610193,65014,910079,983363,5710260,59674
+"DEPOSITS DENOMINATED IN FOREIGN CURRENCY (total of items 33 to 38)",32,0,0,21527868,411050,2081866,3291524,27312308,0
+"  SA banksb",33,0,0,52256,0,0,0,52256,0
+"   SA Central and provincial government",34,0,0,868910,0,0,0,868910,0
+"   SA Household sector",35,0,0,1015242,0,0,0,1015242,0
+"   SA Financial corporate sectorc",36,0,0,878879,0,1144184,1249209,3272272,0
+"   SA Nonfinancial corporate sector and otherd ",37,0,0,16790829,397986,298677,981657,18469149,0
+"   Foreign sector (total of items 39 and 40)",38,0,0,1921752,13064,639005,1060658,3634479,0
+"       Banks",39,0,0,965458,13064,639005,1060658,2678185,0
+"       Other nonresidents",40,0,0,956294,0,0,0,956294,0
+Table 3
+Description,Item Number,Short-term,Medium-term,Long-term,TOTAL,Of which : in foreign currency 
+"OTHER BORROWED FUNDS (total of items 42, 51 and 57)",41,9764106,816505,1767262,12347873,2572148
+"  Loans received under repurchase transactions (total of items 43 to 50)",42,9764106,816505,1767262,12347873,2572148
+"     SA Reserve Bank and Corporation for Public Deposits",43,0,0,0,0,0
+"     SA banksb",44,8771137,0,1767262,10538399,1767262
+"     Insurersg",45,0,0,0,0,0
+"     Pension funds",46,0,0,0,0,0
+"     Other financial corporate sectorc",47,1,11619,0,11620,0
+"     Nonfinancial corporate sector",48,0,0,0,0,0
+"     Foreign sector",49,992968,804886,0,1797854,804886
+"     Other",50,0,0,0,0,0
+"  Collateralised borrowing (total of items 52 to 56)",51,0,0,0,0,0
+"     SA banksb",52,0,0,0,0,0
+"     Financial corporate sectore",53,0,0,0,0,0
+"     Nonfinancial corporate sector ",54,0,0,0,0,0
+"     Foreign sector",55,0,0,0,0,0
+"     Other",56,0,0,0,0,0
+"  Otherf",57,0,0,0,0,0
+"FOREIGN CURRENCY FUNDING (total of items 59 to 63, and 66)",58,15085057,7958241,8671445,31714743,31714743
+"  SA Reserve Bank and Corporation for Public Deposits",59,0,0,0,0,0
+"  SA banksb",60,0,0,0,0,0
+"  SA Financial corporate sectord",61,2438568,729698,863058,4031324,4031324
+"  SA Nonfinancial corporate sector",62,923153,96675,0,1019828,1019828
+"  Foreign sector: Other foreign funding",63,11720340,7114082,7808387,26642809,26642810
+"      Original maturity of one year and less",64,11720340,6553429,4247538,22521307,22521308
+"      Original maturity of more than one year",65,0,560653,3560849,4121502,4121502
+"  Other",66,2996,17786,0,20782,20781
+Table 4
+Description,Item Number,Short-term,Medium-term,Long-term,TOTAL,Of which :  in foreign currency 
+"OTHER LIABILITIES TO THE PUBLIC (total of items 68, 73, 74 and 77)",67,1828879,5872300,54476223,62177402,722277
+"  Debt securities: (total of items 69 to 72)",68,1318173,5872300,54476223,61666696,722277
+"            SA banksb",69,0,0,0,0,0
+"            Financial corporate sectorc",70,1174130,5872300,53397989,60444419,0
+"            Nonfinancial corporate sector and other",71,0,0,0,0,0
+"            Foreign sector",72,144043,0,1078234,1222277,722277
+"  Credits in transit",73,510706,0,0,510706,0
+"  Other (total of items 75 and 76)  ",74,0,0,0,0,0
+"     Financial corporate sector ",75,0,0,0,0,0
+"     Nonfinancial corporate sector and other",76,0,0,0,0,0
+"  Foreign sector",77,0,0,0,0,0
+"TOTAL LIABILITIES TO THE PUBLIC (total of items 1, 41, 58 and 67)",78,609686719,206561852,371249664,1187498235,62321476
+"OUTSTANDING LIABILITIES ON BEHALF OF CLIENTS, per contra item 268",79,0,0,0,0,0
+"OTHER LIABILITIES (total of items 81, 85, 86, 90, 91 and 94)",80,15714135,10343381,16310118,42367634,10313089
+"  Liabilities i.r.o derivative instruments: to domestic sector (total of items 82 to 84)",81,2866543,4963270,10190692,18020505,7074767
+"     SA banksb and other monetary institutionsd",82,1302736,1341014,998272,3642022,2805719
+"     Financial corporate sectorc",83,1011110,2578330,7594975,11184415,1800194
+"     Nonfinancial corporate sector and other",84,552697,1043926,1597445,3194068,2468854
+"  Liabilities i.r.o derivative instruments : to foreign sector",85,513464,1808232,1446844,3768540,3238322
+"  Other trading liabilities (excluding derivatives): to domestic sector (total of items 87 to 89)",86,0,0,908452,908452,0
+"     SA banksb",87,0,0,0,0,0
+"     Financial corporate sectorc",88,0,0,0,0,0
+"     Nonfinancial corporate sector and other",89,0,0,908452,908452,0
+"  Other trading liabilities (excluding derivatives): to foreign sector",90,0,0,0,0,0
+"  Other liabilities:  to domestic sector (total of items 92 and 93)",91,12334128,3571879,3764130,19670137,0
+"     Tax (current and deferred)",92,191168,0,0,191168,0
+"     Other",93,12142960,3571879,3764130,19478969,0
+"  Other liabilities: to foreign sector",94,0,0,0,0,0
+"TOTAL LIABILITIES (total of items 78 to 80)",95,625400854,216905233,387559782,1229865869,72634565
+Table 5
+Description,Item Number,TOTAL,Of which: liabilities to the foreign sector,Of which: in foreign currency (included in col 1 )
+"TOTAL EQUITY (total of items 97 and 101)",96,77597808,0,0
+"Share capital (total of items 98 to 100)",97,20155507,0,0
+"     Banksb",98,0,0,0
+"     Financial corporate sectorc",99,20155507,0,0
+"     Nonfinancial corporate sector and other",100,0,0,0
+"Other reserves",101,57442301,0,0
+"TOTAL EQUITY AND LIABILITIES (total of items 95 and 96)",102,1307463677,,
+Table 6
+Description,Item Number,Domestic assets,Domestic assets: Of which: foreign currency,Foreign assets,Foreign assets: Of which: foreign currency,TOTAL ASSETS (Col 1 plus col 3),Of which: under repurchase agreements
+"CENTRAL BANK MONEY AND GOLD (total of items 104 to 106)",103,58366338,0,0,0,58366338,0
+"South African bank notes and subsidiary coin ",104,3766847,0,,,3766847,0
+"Gold coin and bullion",105,0,0,0,0,0,0
+"Domestic currency deposits with SA Reserve Bank (total of items 107 to 109)",106,54599491,0,,,54599491,0
+"Cash reserve deposits: Interest bearing",107,,,,,,
+"   Cash reserve deposits: Noninterest bearing",108,27008049,0,,,27008049,0
+"   Other deposits",109,27591442,0,,,27591442,0
+"DEPOSITS, LOANS AND ADVANCES (total of items 111, 117, 118, 126, 135, 139, 150, 166, 171 and 180, less item 194)",110,863702021,2222834,63115545,57753131,926817566,0
+"SA banksb (total of items 112 and 116)",111,5679077,0,,,5679077,0
+" NCDs/PNsc issued by banks, with an unexpired maturity of: (total of items 113 to 115)",112,5333171,0,,,5333171,0
+"        Up to 1 month ",113,0,0,,,0,0
+"        More than 1 month to 6 months",114,0,0,,,0,0
+"        More than 6 months ",115,5333171,0,,,5333171,0
+" Other deposits with and loans and advances to SA banksb",116,345906,0,,,345906,0
+Table 7
+Description,Item Number,Domestic assets,Domestic assets: Of which: foreign currency,Foreign assets,Foreign assets: Of which: foreign currency,TOTAL ASSETS (Col 1 plus col 3),Of which: under repurchase agreements
+"Deposits with and loans and advances to foreign banks, denominated in rand",117,,,820496,0,820496,0
+"Loans granted under resale agreements to:  (total of items 119 to 125)",118,14168638,0,9640121,8607467,23808759,0
+"   SA Reserve Bank ",119,0,0,,,0,0
+"   Banksd",120,641662,0,9334853,8607467,9976515,0
+"   Insurers",121,0,0,0,0,0,0
+"   Pension funds",122,190101,0,0,0,190101,0
+"   Other financial corporate sectorb",123,13066317,0,305268,0,13371585,0
+"   Nonfinancial corporate sector",124,270558,0,0,0,270558,0
+"   Other",125,0,0,0,0,0,0
+"Foreign currency loans and advances (total of items 127 to 130, 133 and 134)",126,2223056,2223056,49342680,49342680,51565736,0
+"   Foreign currency notes and coin",127,,,40816,40816,40816,0
+"   Deposits with and advances to SA Reserve Bank",128,0,0,,,0,0
+"   Deposits with and advances to SA banksd",129,3,3,,,3,0
+"   Other advances to: (total of items 131 and 132)",130,2223053,2223053,,,2223053,0
+"      SA Financial corporate sectorc",131,617060,617060,,,617060,0
+"      SA Nonfinancial corporate sector and other",132,1605993,1605993,,,1605993,0
+"   Deposits with and advances to foreign banks",133,,,42339743,42339743,42339743,0
+"   Other advances to foreign sector ",134,,,6962121,6962121,6962121,0
+"Redeemable preference shares issued by: (total items 136 to 138)",135,553943,0,0,0,553943,0
+"     Banksd",136,0,0,0,0,0,0
+"     Financial corporate sectorc",137,553943,0,0,0,553943,0
+"     Nonfinancial corporate sector and other",138,0,0,0,0,0,0
+Table 8
+Description,Item Number,Domestic assets,Domestic assets: Of which: foreign currency,Foreign assets,Foreign assets: Of which: foreign currency,TOTAL ASSETS (Col 1 plus col 3),Of which: under repurchase agreements
+"Instalment debtors, suspensive sales and leases (total of items 140 and 145)",139,171737841,0,15885,0,171753726,0
+"  Instalment sales (total of items 141 to 144)",140,170853105,0,15885,0,170868990,0
+"      Financial corporate sector",141,252686,0,0,0,252686,0
+"      Nonfinancial corporate sector",142,26978963,0,235,0,26979198,0
+"      Household sector ",143,143138965,0,15650,0,143154615,0
+"      Otherb",144,482491,0,0,0,482491,0
+"  Leasing transactions (total of items 146 to 149)",145,884736,0,0,0,884736,0
+"      Financial corporate sector",146,55726,0,0,0,55726,0
+"      Nonfinancial corporate sector",147,634680,0,0,0,634680,0
+"      Household sector ",148,174681,0,0,0,174681,0
+"      Otherb",149,19649,0,0,0,19649,0
+"Mortgage advances (total of items 151, 155 and 159) ",150,385241761,0,1876563,0,387118324,0
+"  Farm mortgages: (total of items 152 to 154)  ",151,1754094,0,0,0,1754094,0
+"      Corporate sector",152,823507,0,0,0,823507,0
+"      Household sector",153,914533,0,0,0,914533,0
+"      Otherb",154,16054,0,0,0,16054,0
+"  Residential mortgages: (total of items 156 to 158)",155,193483194,0,259300,0,193742494,0
+"      Corporate sector",156,9865120,0,863,0,9865983,0
+"      Household sector",157,183499605,0,258437,0,183758042,0
+"      Otherb",158,118469,0,0,0,118469,0
+"  Commercial and other mortgage advances: (total of items 160 to 165)",159,190004473,0,1617263,0,191621736,0
+"       Public financial corporate sector",160,11205,0,0,0,11205,0
+"       Public nonfinancial corporate sector",161,22,0,0,0,22,0
+"       Private financial corporate sector ",162,8705983,0,0,0,8705983,0
+"       Private nonfinancial corporate sector",163,159896203,0,1617263,0,161513466,0
+"       Household sector ",164,20939678,0,0,0,20939678,0
+"       Otherb",165,451382,0,0,0,451382,0
+Table 9
+Description,Item Number,Domestic assets,Domestic assets: Of which: foreign currency,Foreign assets,Foreign assets: Of which: foreign currency,TOTAL ASSETS (Col 1 plus col 3),Of which: under repurchase agreements
+"Creditcard debtors (total of items 167 to 170)",166,17265603,0,13885,0,17279488,0
+"      Financial corporate sector",167,86668,0,601,0,87269,0
+"      Nonfinancial corporate sector",168,836738,0,97,0,836835,0
+"      Household sector",169,15613786,0,13162,0,15626948,0
+"      Otherb",170,728411,0,25,0,728436,0
+"Overdrafts, loans and advances: public sector (total of items 172 to 179) ",171,19932863,0,0,0,19932863,0
+"     Central government of the Republic (excluding social security funds)",172,3313980,0,,,3313980,0
+"     Social security funds",173,0,0,,,0,0
+"     Provincial governments",174,7656,0,,,7656,0
+"     Local government",175,11430735,0,,,11430735,0
+"     Land Bank",176,0,0,,,0,0
+"     Other public financial corporate sector (such as IDC)c",177,1071911,0,,,1071911,0
+"     Public nonfinancial corporate sector (such as Transnet, Eskom and Telkom)",178,4108581,0,,,4108581,0
+"     Foreign public sector",179,,,0,0,0,0
+"Overdrafts, loans and advances: private sector (total of items 181, 187 and 188)",180,274328190,0,1683327,0,276011517,0
+"  Overdrafts, including overdrafts under cashmanagement schemes: (total of items 182 to 186)",181,28593908,0,1313,0,28595221,0
+"     Financial corporate sector",182,869057,0,4,0,869061,0
+"     Nonfinancial corporate sector",183,22893657,0,13,0,22893670,0
+"     Unincorporated business enterprises of households",184,324723,0,1,0,324724,0
+"     Households",185,4068949,0,1292,0,4070241,0
+"     Nonprofit organisations serving households ",186,437522,0,3,0,437525,0
+"  Factoring debtors",187,7885749,0,0,0,7885749,0
+"  Other loans and advances: (total of items 189 to 193)",188,237848533,0,1682014,0,239530547,0
+"     Financial corporate sector",189,89174508,0,541512,0,89716020,0
+"     Nonfinancial corporate sector",190,120592581,0,1126759,0,121719340,0
+"     Unincorporated business enterprises of households",191,130033,0,0,0,130033,0
+"     Households",192,26853279,0,1715,0,26854994,0
+"     Nonprofit organisations serving households",193,1098132,0,12028,0,1110160,0
+"Less: credit impairments in respect of loans and advances",194,27428951,222,277412,197016,27706363,0
+Table 10
+Description,Item Number,Domestic assets,Domestic assets: Of which: foreign currency,Foreign assets,Foreign assets: Of which: foreign currency,TOTAL ASSETS (Col 1 plus col 3),Of which: under repurchase agreements
+"INVESTMENTS AND BILLS, including trading portfolio assets (total of items 196, 207, 213, 217, 221, 225, 229, 233, 237, 241 and 246, less item 245)",195,270735217,14898683,10096701,9265313,280831918,12280435
+"Interestbearing central or provincial government securities (total of items 197, 198 and 203 to 206)",196,168233044,7828702,1438942,1438942,169671986,12280435
+"   Nonmarketable government stock ",197,0,0,0,0,0,0
+"   Marketable government stock (total of item 199 and 201)",198,168233044,7828702,1438942,1438942,169671986,12280435
+"    Unexpired maturity of up to 3 years",199,47023779,1836595,742921,742921,47766700,0
+"         Memo: Nominal value of such stock ",200,44752801,1816466,724410,724410,45477211,0
+"    Unexpired maturity of more than 3 years",201,121209265,5992107,696021,696021,121905286,12280435
+"         Memo: Nominal value of such stock",202,119156180,5938907,684046,684046,119840226,14135911
+"   Government loan levies",203,0,0,,,0,0
+"   Securities of provincial governments",204,0,0,,,0,0
+"   Securities of social security funds",205,0,0,,,0,0
+"   Securities of other central government institutionse",206,0,0,,,0,0
+"Other publicsector interestbearing securities (total of items 208 to 212)",207,1961812,0,0,0,1961812,0
+"   SA Reserve Bank debentures",208,0,0,,,0,0
+"   Securities (including debentures) issued by the Land Bank",209,576052,0,,,576052,0
+"   Securities issued by other public financial corporate sectorb (such as IDC, DBSA)",210,789383,0,0,0,789383,0
+"   Securities issued by public nonfinancial corporate sector (such as Transnet and Eskom)",211,513349,0,0,0,513349,0
+"   Securities of local authorities ",212,83028,0,0,0,83028,0
+"Debentures and other interest bearing security investments of private sector (total of items 214 to 216)",213,33295397,0,0,0,33295397,0
+"   Banksd",214,595352,0,0,0,595352,0
+"   Financial corporate sectorc",215,7540657,0,0,0,7540657,0
+"   Nonfinancial corporate sector and other",216,25159388,0,0,0,25159388,0
+Table 11
+Description,Item Number,Domestic assets,Domestic assets: Of which: foreign currency,Foreign assets,Foreign assets: Of which: foreign currency,TOTAL ASSETS (Col 1 plus col 3),Of which: under repurchase agreements
+"Equity holdings in subsidiaries (total of items 218 to 220)",217,1185875,0,0,0,1185875,0
+"    Banksc",218,0,0,0,0,0,0
+"    Financial corporate sectorb",219,1066494,0,0,0,1066494,0
+"    Nonfinancial corporate sector",220,119381,0,0,0,119381,0
+"Equity holdings in associates including joint ventures (total of items 222 to 224)",221,491125,0,0,0,491125,0
+"    Banksc",222,0,0,0,0,0,0
+"    Financial corporate sectorb",223,491125,0,0,0,491125,0
+"    Nonfinancial corporate sector",224,0,0,0,0,0,0
+"Listed equities (total of items 226 to 228)",225,0,0,0,0,0,0
+"    Banksc",226,0,0,0,0,0,0
+"    Financial corporate sectorb",227,0,0,0,0,0,0
+"    Nonfinancial corporate sector",228,0,0,0,0,0,0
+"Unlisted equities (total of items 230 to 232)",229,4828020,0,43771,0,4871791,0
+"    Banksc",230,0,0,0,0,0,0
+"    Financial corporate sectorb",231,581079,0,0,0,581079,0
+"    Nonfinancial corporate sector",232,4246941,0,43771,0,4290712,0
+"Securitisation/ assetbacked securities: (total of items 234 to 236)",233,0,0,0,0,0,0
+"    Banksc",234,0,0,0,0,0,0
+"    Financial corporate sectorb",235,0,0,0,0,0,0
+"    Nonfinancial corporate sector",236,0,0,0,0,0,0
+"Derivative instruments issued by: (total of items 238 to 240)",237,20929398,7069981,4990363,4202746,25919761,0
+"    Banksc and other monetary institutionsf",238,3070984,2454736,4789141,4001524,7860125,0
+"    Financial corporate sectorb",239,9583658,627979,7168,7168,9590826,0
+"    Nonfinancial corporate sector and other",240,8274756,3987266,194054,194054,8468810,0
+"Other investments (total of items 242 to 244)",241,596177,0,0,0,596177,0
+"    Banksc",242,0,0,0,0,0,0
+"    Financial corporate sectorb",243,596177,0,0,0,596177,0
+"    Nonfinancial corporate sector",244,0,0,0,0,0,0
+"Less: Allowances for impairments i.r.o investments",245,7518,0,0,0,7518,0
+Table 12
+Description,Item Number,Domestic assets,Domestic assets: Of which: foreign currency,Foreign assets,Foreign assets: Of which: foreign currency,TOTAL ASSETS (Col 1 plus col 3),Of which: under repurchase agreements
+"Acceptances, commercial paper, bills, promissory notes and similar acknowledgements of debt discounted or purchased (total of items 247, 250 to 254 and 257)",246,39221887,0,3623625,3623625,42845512,0
+"Bankers' acceptances (total of items 248 and 249)",247,,,,,,
+"Own bankers' acceptances",248,,,,,,
+"Other bankers' acceptances",249,,,,,,
+"    Treasury bills",250,39221887,0,3623625,3623625,42845512,0
+"    SA Reserve Bank bills",251,0,0,,,0,0
+"    Promissory notes",252,0,0,0,0,0,0
+"    Commercial paper",253,0,0,0,0,0,0
+"    Land Bank bills (total of items 255 and 256)",254,0,0,,,0,0
+"    Liquid ",255,0,0,,,0,0
+"    Nonliquid",256,0,0,,,0,0
+"   Other ",257,0,0,0,0,0,0
+Table 13
+Description,Item Number,Domestic assets,Domestic assets: Of which: foreign currency,Foreign assets,Foreign assets: Of which: foreign currency,TOTAL ASSETS (Col 1 plus col 3),Of which: under repurchase agreements
+"NONFINANCIAL ASSETS (total of items 259 and 264)",258,18307801,0,0,0,18307801,
+"    Tangible assets (total of items 260 to 263)",259,9227353,0,0,0,9227353,
+"        Premises of the bank",260,5817152,0,0,0,5817152,
+"        Other fixed property",261,0,0,0,0,0,
+"        Computer equipment, including peripherals",262,2178391,0,0,0,2178391,
+"        Other tangible assets, including vehicles, equipment, furniture and fittings",263,1231810,0,0,0,1231810,
+"    Intangible assets (total of items 265 and 266)",264,9080448,0,0,0,9080448,
+"        Computer software",265,7695642,0,0,0,7695642,
+"        Other intangible assets including purchased goodwill",266,1384806,0,0,0,1384806,
+"OTHER ASSETS (total of items 268 to 272 and 276)",267,23138273,0,1784,0,23140057,0
+"Clients' liabilities per contra (total of items 280 to 283)",268,0,0,0,0,0,
+"Remittances in transit",269,48184,0,0,0,48184,
+"Current income tax receivables and deferred income tax assets",270,533349,0,0,0,533349,
+"Retirement benefit assets",271,5219108,0,0,0,5219108,0
+"Assets acquired or bought in to protect an advance or investment (total of items 273 to 275)                                                                                                                                                                                           ",272,110088,0,0,0,110088,0
+"     Fixed property",273,110088,0,0,0,110088,0
+"     Shares",274,0,0,0,0,0,0
+"     Vehicles and other assets",275,0,0,0,0,0,0
+"Other ",276,17227544,0,1784,0,17229328,0
+"TOTAL ASSETS (total of items 103, 110, 195, 258 and 267)",277,1234249650,17121517,73214030,67018444,1307463680,12280435
+Table 14
+Description,Item Number,Domestic assets,Domestic assets: Of which: foreign currency,Foreign assets,Foreign assets: Of which: foreign currency,TOTAL ASSETS (Col 1 plus col 3),Of which: under repurchase agreements
+"DISAGGREGATED EXPOSURES",278,,,,,,
+"Details of client's liabilities, per item 268 (total of items 280 to 283) ",279,0,0,0,0,0,
+"     Acceptances outstanding",280,0,0,0,0,0,
+"     Commercial paper endorsed",281,0,0,0,0,0,
+"     Bills endorsed",282,0,0,0,0,0,
+"     Promissory notes and similar acknowledgements of debt endorsed",283,0,0,0,0,0,
+"Total assets prior to netting or setoff",284,1304121656,17121516,73214029,67018443,1377335685,
+Table 15
+"Guarantees on behalf of clients",285,41157959
+"Letters of credit",286,10716885
+"Bankers acceptances",287,
+"Committed undrawn facilities (including unutilised drawdown facilities)",288,164210214
+"Underwriting exposures (including revolving underwriting exposures)",289,0
+"Credit derivative instuments",290,7706425
+"Committed capital expenditure",291,720881
+"Operating lease commitments",292,0
+"Other contingent liabilities",293,51037972
+"  of which: uncommitted undrawn facilities",294,51037972
+"Portfolios managed : For others where financing is provided",295,0
+Table 17
+Description,Item Number,New securitisation during the monthb ,Outstanding balance  i.r.o. securitisationc
+"Private sector: total (of item 344 to 348)",343,0,0
+"Mortgages",344,0,0
+"Instalment sales and leasing transactions",345,0,0
+"Foreign currency loans",346,0,0
+"Credit cards and overdrafts",347,0,0
+"Other",348,0,0
+"Public sector: total (item 350)",349,0,0
+"Loans and advancesd",350,0,0
+Table 18
+Description,Item Number,Total acquired (total of col. 2 to 6),Sold outright,Sold under repo,On-lentb,Pledged as security,Other (in hand)
+"Total assets temporarily acquired (total of items 352 and 369)",351,23808758,0,23808758,0,0,0
+"Under loans granted under resale agreements (total of items 353, 356, 359 and 366)",352,23808758,0,23808758,0,0,0
+"Listed equity instruments (total of items 354 and 355)",353,0,0,0,0,0,0
+"   Domestic (SA residents)",354,0,0,0,0,0,0
+"   Foreign (nonresidents)",355,0,0,0,0,0,0
+"Unlisted equity instruments (total of items 357 and 358)",356,0,0,0,0,0,0
+"   Domestic (SA residents)",357,0,0,0,0,0,0
+"   Foreign (nonresidents)",358,0,0,0,0,0,0
+"Debt securities (total of items 360 and 365)",359,23808758,0,23808758,0,0,0
+"   Domestic (SA residents)  (total of items 361 to 364)",360,14168638,0,14168638,0,0,0
+"      Banks",361,0,0,0,0,0,0
+"      RSA government",362,14168638,0,14168638,0,0,0
+"      Public financial and nonfinancial corporate sector",363,0,0,0,0,0,0
+"      Other",364,0,0,0,0,0,0
+"   Foreign (nonresidents)",365,9640120,0,9640120,0,0,0
+"Other securities (total of items 367 and 368)",366,0,0,0,0,0,0
+"   Domestic (SA residents)",367,0,0,0,0,0,0
+"   Foreign (nonresidents) ",368,0,0,0,0,0,0
+"Under securitiesborrowing agreements (total of items 370, 373 and 374)",369,0,0,0,0,0,0
+"Equity instruments (total of items 371 and 372)",370,0,0,0,0,0,0
+"   Domestic (SA residents)",371,0,0,0,0,0,0
+"   Foreign (nonresidents)",372,0,0,0,0,0,0
+"RSA government securities",373,0,0,0,0,0,0
+"Other securities (total of items 375 and 376)",374,0,0,0,0,0,0
+"   Domestic (SA residents)",375,0,0,0,0,0,0
+"   Foreign (nonresidents)",376,0,0,0,0,0,0
+Table 19
+Description,Item Number,Total lent to other parties,of which:  on-lentb
+"Total assets lent (total of items 378, 381 and 382)",377,0,0
+"Equity instruments (total of items 379 and 380)",378,0,0
+"   Domestic sector (SA residents)",379,0,0
+"   Foreign sector (nonresidents)",380,0,0
+"RSA government securities",381,0,0
+"Other securities (total of items 383 and 384)",382,0,0
+"   Domestic sector (SA residents)",383,0,0
+"   Foreign sector (nonresidents)",384,0,0
