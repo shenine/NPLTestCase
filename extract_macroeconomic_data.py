@@ -10,7 +10,7 @@ def extract_reporate():
 	try:
 		df = pd.read_csv('HistoricalRateDetail.csv', encoding='utf-8')
 		df['date'] = pd.to_datetime(df['Date'], format='%Y-%m-%d')
-		df.set_index('date', inplace=True)
+		#df.set_index('date', inplace=True)
 		df['repo_rate'] = df['Value'].astype(float)
 		del df['Date']
 		del df['Value']
@@ -26,7 +26,7 @@ def extract_cpi():
 	try:
 		df = pd.read_csv('cpi_history.csv', encoding='utf-8')
 		df['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d')
-		df.set_index('date', inplace=True)
+		#df.set_index('date', inplace=True)
 		df['inflation_rate'] = df['inflation_rate'].astype(float)
 		return df
 	except Exception as e:
@@ -40,7 +40,7 @@ def extract_unemployment():
 	try:
 		df = pd.read_csv('LRUN64TTZAQ156S.csv', encoding='utf-8')
 		df['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d')
-		df.set_index('date', inplace=True)
+		#df.set_index('date', inplace=True)
 		df['unemployment_rate'] = df['unemployment_rate'].astype(float)
 		return df
 	except Exception as e:
@@ -54,7 +54,7 @@ def extract_gdp():
 	try:
 		df = pd.read_csv('NGDPRSAXDCZAQ.csv', encoding='utf-8')
 		df['date'] = pd.to_datetime(df['date'], format='%Y-%m-%d')
-		df.set_index('date', inplace=True)
+		#df.set_index('date', inplace=True)
 		df['gdp'] = df['gdp'].astype(float)
 		return df
 	except Exception as e:

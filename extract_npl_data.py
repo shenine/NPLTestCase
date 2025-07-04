@@ -44,7 +44,8 @@ def extract_bank_npl_data(csv_file_path, extracted_date):
             'mortgage advances (total',
             'instalment debtors, suspensive sales and leases (total',
             'creditcard debtors (total', 
-            'overdrafts, loans and advances: private sector (total'
+            'overdrafts, loans and advances: private sector (total',
+            'loans and advancesd'
         ]):
             if len(line_parts) > 6:
                 try:
@@ -52,6 +53,22 @@ def extract_bank_npl_data(csv_file_path, extracted_date):
                     gross_loans += amount
                 except:
                     pass
+
+#        # GROSS LOANS - Extract total deposits, loans and advances (Item 110)
+#        if 'deposits, loans and advances (total' in line_lower and ',110,' in line:
+#            if len(line_parts) > 6:
+#                try:
+#                    gross_loans = float(line_parts[6].strip()) if line_parts[6].strip() else 0
+#                except:
+#                    pass
+
+#        # GROSS LOANS - Extract loans and advances (Item 350)
+#        if 'loans and advancesd' in line_lower and ',350,' in line:
+#            if len(line_parts) > 3:
+#                try:
+#                    gross_loans = float(line_parts[6].strip()) if line_parts[6].strip() else 0
+#                except:
+#                    pass
         
         # CREDIT IMPAIRMENTS - Item 194
         elif 'credit impairments in respect of loans and advances' in line_lower:
